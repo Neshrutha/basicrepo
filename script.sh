@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "second webhook">file.txt
+echo "second webhook2">file.txt
