@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hii Neshrutha">file.txt
+echo "hii Neshrutha Nagam">file.txt
