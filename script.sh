@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "webhook is triggered today">file.txt
+echo "first webhook">file.txt
