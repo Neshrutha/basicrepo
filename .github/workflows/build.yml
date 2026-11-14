@@ -1,6 +1,7 @@
 name: cicdpipeline
 on:
   push:
+  workflow_dispatch:
 jobs:
   pythonapplication:
     runs-on: ubuntu-latest
